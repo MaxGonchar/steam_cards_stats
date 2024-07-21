@@ -1,0 +1,47 @@
+{
+    "card_name": "string",
+    "game_name": "string",
+    "data": {
+        "Jun 19 2020": {
+            "sale_offers" :{
+                "min_price": 0.07,
+                "total_count": 1909,
+                "details": [
+                    {
+                        "price": 0.07,
+                        "count": 420
+                    },
+                    {
+                        "price": 0.10,
+                        "count": 69 
+                    }
+                ]
+            },
+            "buy_offers": {
+                "max_price": 0.07,
+                "total_count": 1909,
+                "details": [
+                    {
+                        "price": 0.07,
+                        "count": 420
+                    },
+                    {
+                        "price": 0.10,
+                        "count": 69 
+                    }
+                ]
+            },
+            "fuct_deals": [
+                {
+                    "price": 0.07,
+                    "count": 420
+                },
+                {
+                    "price": 0.10,
+                    "count": 69 
+                }
+            ]
+        }
+    },
+    "chart_history": [["Jun 11 2024 17: +0", 0.043, "3"], ["Jun 11 2024 18: +0", 0.04, "5"], ["Jun 11 2024 19: +0", 0.04, "12"]]
+}
